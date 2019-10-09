@@ -1,0 +1,22 @@
+
+        body{
+            background-image: url("man.jpg");
+            background-position: auto;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            
+
+        }
+    
+        .clock{
+            z-index: 3;
+            position: absolute;
+            top: 50%;
+            left:50%;
+            transform: translateX(-50%) translateY(-50%);
+            color: rgb(0, 145, 120);
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 5em;
+          
+        }
+   
